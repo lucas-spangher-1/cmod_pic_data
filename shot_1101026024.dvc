@@ -1,0 +1,6 @@
+outs:
+- md5: 0bc02e77eda37478cea3403215f3c35b.dir
+  size: 12345851
+  nfiles: 60
+  hash: md5
+  path: shot_1101026024
